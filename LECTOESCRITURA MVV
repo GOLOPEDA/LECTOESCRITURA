@@ -1,0 +1,32 @@
+!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Página web de la asignatura y el profesor que la imparte">
+  <meta name="keywords" content="asignatura, profesor, educación">
+  <meta name="author" content="Nombre del profesor">
+  <title>Asignatura - LECTOESCRITURA </title>
+  <link rel="stylesheet" href="styles.css"> <!-- Enlace a la hoja de estilos CSS -->
+</head>
+
+<body>
+  <header>
+    <h1>LECTOESCRITURA</h1>
+    <nav>
+      <ul>
+        <li><a href="#informacion">Información</a></li>
+        <li><a href="#profesor">Marta Vázquez Vega>/a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="informacion">
+      <h2>Información de la asignatura</h2>
+      <!-- Contenido sobre la asignatura -->Familia: ala, mamá, papá, mesa.
+    </section>
+    <section id="profesor">
+      <h2>Marta vázquez Vega
+
+</html>
